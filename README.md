@@ -5,7 +5,7 @@ Module of High-level programming and Python.
 ## Technologies Used
 * Shell Scripts are written in Bash 4.3.11(1)
 * Python Scripts are written with Python 3.4.3
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Projects
 All of the following folders are projects done during the studies:
