@@ -2,7 +2,7 @@
 class Square:
     """ A Class that defines a square by its size
     """
-    def __init__(self,size=0):
+    def __init__(self, size=0):
         """Method to initialize the square object
         """
         if not isinstance(size, int):
