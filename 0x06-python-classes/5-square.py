@@ -25,7 +25,7 @@ class Square:
         """Method to return the size value
         """
         return self.__size
-    
+
     @size.setter
     def size(self, value):
         """ Class that sets the vslue of the square object
