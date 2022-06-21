@@ -1,4 +1,4 @@
-#!?usr/bin/python3
+#!/usr/bin/python3
 """ A Class that defines a square by its size """
 
 
