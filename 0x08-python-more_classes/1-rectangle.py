@@ -2,9 +2,6 @@
 """ Class Decscribing the dimensions of class Rectangle """
 
 
-from yaml import ValueToken
-
-
 class Rectangle:
     """Class that defines a  rectangle """
 
