@@ -3,18 +3,16 @@
 representation of an object
 """
 
-
 import json
 
 
-def to_json_string(my_obj):
-    """ Function that returns the JSON representation of an object
-
-    Args:
-        my_obj: object
-
-    Raises:
-        Exception: when the object can't be encoded
-
+def save_to_json_file(my_obj, filename):
     """
-    return json.dumps(my_obj)
+        writes an object to a text file
+        uses JSON representation
+        Args:
+            my_obj: object to be encoded
+            filename: file to be written to
+    """
+    with open(filename, 'w+') as f:
+        json.dump(my_obj, f)
