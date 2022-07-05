@@ -16,13 +16,11 @@ By the end of the task I should be able  explain why:
     How to convert a Python data structure to a JSON string
     How to convert a JSON string to a Python data structure
 
-
 ## Technologies
 
 * Python Scripts are written with `Python 3.4.3`
 * C files are compiled using `gcc 4.8.4`
 * Tested using `ubuntu 22.04 LTS`
-
 
 ## Files
 
