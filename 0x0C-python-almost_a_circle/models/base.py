@@ -85,7 +85,7 @@ class Base:
         """ Method that saves a CSV file """
         filename = "{}.csv".format(cls.__name__)
 
-        if cls.__name__ = "Rectangle":
+        if cls.__name__ == "Rectangle":
             list_dic = [0, 0, 0, 0, 0]
             list_keys = ['id', 'size', 'x', 'y']
         else:
@@ -118,7 +118,7 @@ class Base:
             reader = csv.reader(readFile)
             csv_list = list(reader)
 
-        if cls.__name__ = "Rectangle":
+        if cls.__name__ == "Rectangle":
             list_keys = ['id', 'width', 'height', 'x', 'y']
         else:
             list_keys = ['id', 'size', 'x', 'y']
