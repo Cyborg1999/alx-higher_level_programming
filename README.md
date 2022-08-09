@@ -7,6 +7,7 @@ Module of High-level programming and Python.
 * Shell Scripts are written in Bash 4.3.11(1)
 * Python Scripts are written with Python 3.4.3
 * Tested on Ubuntu 20.04 LTS
+* `MySQL 5.7` (version 5.7.8-rc)
 
 ## Projects
 
@@ -26,3 +27,5 @@ All of the following folders are projects done during the studies:
 | [`0x09-python-everything_is_object`](https://github.com/Cyborg1999/alx-higher_level_programming/tree/main/0x09-python-everything_is_object)| It aims to learn about object oriented programming (OOP), mutability, identity and data types in **Python** |
 | [`0x0A-python-inheritance`](https://github.com/Cyborg1999/alx-higher_level_programming/tree/main/0x0A-python-inheritance)| It aims to learn about inheritance, superclass, baseclass and subclass in **Python** |
 | [`0x0B-python-input_output`](https://github.com/Cyborg1999/alx-higher_level_programming/tree/main/0x0B-python-input_output) | It aims to learn how to open, read, write and append files from a script in **Python** |
+| [`0x0C-python-almost_a_circle`](https://github.com/Cyborg1999/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle) | It aims to learn about unit testing, serialization, deserialization, JSON, `args` and `kwargs` in **Python** |
+| [`0x0D-SQL_introduction`](https://github.com/Cyborg1999/alx-higher_level_programming/tree/main/0x0D-SQL_introduction) | It aims to learn about databases, relational databases, subqueries, tables, **MySQL** statements and functions |
